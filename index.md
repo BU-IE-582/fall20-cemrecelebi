@@ -1,7 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to The Progress Journal
 
-#Progress Journal
-
-##Week 0 (Due Date: Oct 29)
+#Week 0 (Due Date: Oct 29)
 
 [Here](files/hw_zero_cc_intexp.html) is my 5 interesting R examples.
