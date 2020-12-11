@@ -6,5 +6,5 @@
 
 [Here](files/HW1_CC.html) is first homework and its code is also [Here](files/HW1_CC.ipynb) . Due date: 20/11/2020
 
-[Here](files/HW2/cemrehw2-draft (1).html) is first homework and its code is also [Here](files/HW2/cemrehw2-draft (1).ipynb) . Due date: 11/12/2020
+[Here](files/HW2/HW2byCemreC.html) is first homework and its code is also [Here](files/HW2/HW2byCemreC.ipynb) . Due date: 11/12/2020
 
