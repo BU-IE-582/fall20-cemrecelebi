@@ -9,3 +9,6 @@
 [Here](files/HW2/HW2byCemreC.html) is second homework and its code is also [Here](files/HW2/HW2byCemreC.ipynb) . Due date: 11/12/2020
 
 [Here](files/HW3/HW3byCemreC.html) is third homework and its code is also [Here](files/HW3/HW3byCemreC.ipynb) . Due date: 01/01/2021
+
+[Here](files/HW4/HW4byCemreC.html) is fourth homework and its code is also [Here](files/HW4/HW4byCemreC.ipynb) . Due date: 29/01/2021 
+	If you want to see related data: [Here](files/HW4/Data)
