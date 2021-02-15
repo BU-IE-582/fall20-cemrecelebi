@@ -12,5 +12,7 @@
 
 [Here](files/HW4/HW4byCemreC.html) is fourth homework and its code is also [Here](files/HW4/HW4byCemreC.ipynb) . Due date: 29/01/2021 
 
-[Here](files/ProjectbyChE-origin/Code/project_ChE-origin -Final.html) is code of project made by group 'ChE-origin' and its .ipynb format is also [Here](files/ProjectbyChE-origin/Code/project_ChE-origin -Final.ipynb) . Due date: 15/02/2021
+[Here](files/ProjectbyChE-origin/Report/ReportofProjectbyChE-origin.html) is project report written by group 'ChE-origin' and its .ipynb format is also [Here](files/ProjectbyChE-origin/Report/ReportofProjectbyChE-origin.ipynb) . Due date: 15/02/2021
+
+[Here](files/ProjectbyChE-origin/Code/project_ChE-origin-Final.html) is code of project made by group 'ChE-origin' and its .ipynb format is also [Here](files/ProjectbyChE-origin/Code/project_ChE-origin-Final.ipynb) . Due date: 15/02/2021
  
